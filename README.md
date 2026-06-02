@@ -1,4 +1,5 @@
 # VendeMás - Sistema POS con Análisis Predictivo
+> Actualmente en proceso de migración
 
 ## Descripción
 **VendeMás** es un sistema de Punto de Venta (POS) diseñado para optimizar la gestión comercial de tiendas de abarrotes y minisúper. El sistema integra una interfaz de usuario moderna con un potente módulo de análisis predictivo que estima cuándo se agotará el stock de cada producto basándose en el historial de ventas.
